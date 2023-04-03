@@ -954,13 +954,6 @@ button[aria-label="Send a gift"] {
   font-family: "Lato";
   color: var(--darkplus-sec);
 }
-.wordmark-2u86JB > svg {
-  display: none;
-}
-.wordmark-2u86JB:after {
-  filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
-  content: "Modified"
-}
 
 .channelName-3KPsGw,
 .subtitle-3PyFgf {
